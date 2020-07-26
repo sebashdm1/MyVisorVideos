@@ -17,10 +17,15 @@ const App = () => (
                  <CarouselItem/>
                  <CarouselItem/>
                  <CarouselItem/>
+                 <CarouselItem/>
+                 <CarouselItem/>
+                 <CarouselItem/>
              </Carousel>
          </Categories>
          <Categories title="Tendencias">
              <Carousel>
+                 <CarouselItem/>
+                 <CarouselItem/>
                  <CarouselItem/>
                  <CarouselItem/>
                  <CarouselItem/>
